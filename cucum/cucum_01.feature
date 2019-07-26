@@ -22,4 +22,4 @@ Feature: Login verification for TestMeApp
 
     Examples: 
       | Uname       |  | fname |  | lname |  | Pswrd       |  | cPswrd      |  | email         |  | mnumber    |  | dofb       |  | add         |  | ans      |
-      | himalaya441 |  | jatin |  | Kedia |  | himalaya441|  | himalaya441 |  | jat@gmail.com |  | 7992274229 |  | 05/04/1997 |  | Candor tech |  | gurugram |
+      | himalaya669 |  | jatin |  | Kedia |  | himalaya669 |  | himalaya669 |  | jati@gmail.com |  | 7992274889 |  | 05/04/1997 |  | Candor tech |  | gurugram |
